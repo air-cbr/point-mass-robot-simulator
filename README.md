@@ -46,11 +46,11 @@ It provides easy-to-extend robot models, simple force-based control, and graphic
 ### Built With
 
 
-- <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
-  <br />
-- <a href="https://numpy.org/"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> </a>
-  <br />
-- <a href="https://www.pygame.org/"> <img src="https://img.shields.io/badge/Pygame-0C0C0C?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame"> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
+
+<a href="https://numpy.org/"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> </a>
+
+<a href="https://www.pygame.org/"> <img src="https://img.shields.io/badge/Pygame-0C0C0C?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame"> </a>
 
 
 
