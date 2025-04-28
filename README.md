@@ -109,13 +109,16 @@ pip install -r requirements.txt
 <!-- CONTRIBUTING -->
 ## Contributing
 
-### Top contributors:
+Contributions are what make the open source community such an amazing place!  
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+### Top Contributors:
+
+<a href="https://github.com/air-cbr/point-mass-robot-simulator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=air-cbr/point-mass-robot-simulator" alt="Contributors" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- ======================================================================================== -->
