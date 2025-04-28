@@ -117,9 +117,7 @@ Contributions are what make the open source community such an amazing place!
   <img src="https://contrib.rocks/image?repo=air-cbr/point-mass-robot-simulator" alt="Contributors" />
 </a>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ======================================================================================== -->
