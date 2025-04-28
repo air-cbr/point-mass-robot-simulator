@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+<!-- ======================================================================================== -->
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -11,6 +12,7 @@
   </p>
 </div>
 
+<!-- ======================================================================================== -->
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -26,6 +28,7 @@
   </ol>
 </details>
 
+<!-- ======================================================================================== -->
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -56,6 +59,7 @@ It provides easy-to-extend robot models, simple force-based control, and graphic
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ======================================================================================== -->
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -87,6 +91,7 @@ pip install -r requirements.txt
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ======================================================================================== -->
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -100,6 +105,20 @@ pip install -r requirements.txt
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- ======================================================================================== -->
+<!-- CONTRIBUTING -->
+## Contributing
+
+### Top contributors:
+
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ======================================================================================== -->
 <!-- LICENSE -->
 ## License
 
@@ -113,6 +132,7 @@ See `LICENSE.txt` for full details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ======================================================================================== -->
 <!-- CONTACT -->
 ## Contact
 
