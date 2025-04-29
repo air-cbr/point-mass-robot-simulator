@@ -21,12 +21,13 @@
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#authors">Authors</a></li> <!-- fixed -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 
 <!-- ======================================================================================== -->
 <!-- ABOUT THE PROJECT -->
@@ -110,7 +111,7 @@ pip install -r requirements.txt
 ## Authors
 
 <a href="https://github.com/RedaGhanem" align="left">
-  <img src="https://avatars.githubusercontent.com/u/43389843?v=4" width="100px" style="border-radius: 50%;" alt="Reda Ghanem"/>
+  <img src="https://avatars.githubusercontent.com/u/43389843?v=4" width="100px"  height="100" style="border-radius: 50%;" alt="Reda Ghanem"/>
 </a>
 
 **Reda Ghanem**  
@@ -143,6 +144,8 @@ See `LICENSE.txt` for full details.
 Email: reda.ghanem@unsw.edu.au
 
 Project Link: [https://github.com/air-cbr/point-mass-robot-simulator](https://github.com/air-cbr/point-mass-robot-simulator)
+
+Github Account: [https://github.com/RedaGhanem](https://github.com/RedaGhanem)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
