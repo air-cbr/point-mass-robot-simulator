@@ -106,18 +106,19 @@ pip install -r requirements.txt
 
 
 <!-- ======================================================================================== -->
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- AUTHORS -->
+## Authors
 
-Contributions are what make the open source community such an amazing place!  
-
-### Top Contributors:
-
-<a href="https://github.com/air-cbr/point-mass-robot-simulator/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=air-cbr/point-mass-robot-simulator" alt="Contributors" />
+<a href="https://github.com/RedaGhanem" align="left">
+  <img src="https://avatars.githubusercontent.com/u/43389843?v=4" width="100px" style="border-radius: 50%;" alt="Reda Ghanem"/>
 </a>
 
+**Reda Ghanem**  
+PhD Student in Computer Science  
+University of New South Wales (UNSW)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- ======================================================================================== -->
