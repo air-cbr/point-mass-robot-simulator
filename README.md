@@ -128,7 +128,7 @@ University of New South Wales (UNSW)
 
 This project is licensed under a custom license.
 
-No part of this code may be used, copied, modified, or distributed without prior written permission from the author.
+<!-- No part of this code may be used, copied, modified, or distributed without prior written permission from the author. -->
 
 See `LICENSE.txt` for full details.
 
